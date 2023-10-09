@@ -39,7 +39,7 @@
             wget
 			spyder
 			python311Packages.jupyterlab
-			python311Packages.jupyterlab-lsp
+			# python311Packages.jupyterlab-lsp
           ]
         );
         profile = ''
